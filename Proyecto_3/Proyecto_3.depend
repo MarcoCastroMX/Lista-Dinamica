@@ -1,0 +1,129 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\pc\desktop\proyecto_3\main.cpp
+	<iostream>
+
+1539150606 source:c:\users\pc\desktop\proyecto_3\src\libro.cpp
+	"Libro.h"
+	<string.h>
+	<sstream>
+
+1539150483 c:\users\pc\desktop\proyecto_3\include\libro.h
+	<string>
+
+1539150915 source:c:\users\pc\desktop\proyecto_3\src\lista.cpp
+	"Lista.h"
+
+1539151136 c:\users\pc\desktop\proyecto_3\include\lista.h
+	<iostream>
+	"Libro.h"
+
+1539150606 source:c:\users\marco castro vázquez\onedrive\documentos\anaya el knaya\proyecto_3\src\libro.cpp
+	"Libro.h"
+	<string.h>
+	<sstream>
+
+1539150483 c:\users\marco castro vázquez\onedrive\documentos\anaya el knaya\proyecto_3\include\libro.h
+	<string>
+
+1539224034 source:c:\users\marco castro vázquez\onedrive\documentos\anaya el knaya\proyecto_3\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1539221211 c:\users\marco castro vázquez\onedrive\documentos\anaya el knaya\proyecto_3\include\lista.h
+	<iostream>
+	"Libro.h"
+
+1539223431 source:c:\users\marco castro vázquez\onedrive\documentos\anaya el knaya\proyecto_3\main.cpp
+	<iostream>
+	"Lista.h"
+	"Libro.h"
+	<windows.h>
+
+1539234886 source:c:\users\pc\onedrive\documentos\anaya el knaya\proyecto_3\main.cpp
+	<iostream>
+	"Lista.h"
+	"Libro.h"
+	<windows.h>
+
+1539234413 c:\users\pc\onedrive\documentos\anaya el knaya\proyecto_3\include\lista.h
+	<iostream>
+	"Libro.h"
+
+1539150483 c:\users\pc\onedrive\documentos\anaya el knaya\proyecto_3\include\libro.h
+	<string>
+
+1539150606 source:c:\users\pc\onedrive\documentos\anaya el knaya\proyecto_3\src\libro.cpp
+	"Libro.h"
+	<string.h>
+	<sstream>
+
+1539234413 source:c:\users\pc\onedrive\documentos\anaya el knaya\proyecto_3\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1539234886 source:c:\users\pc\onedrive\documentos\proyecto_3\main.cpp
+	<iostream>
+	"Lista.h"
+	"Libro.h"
+	<windows.h>
+
+1539234413 c:\users\pc\onedrive\documentos\proyecto_3\include\lista.h
+	<iostream>
+	"Libro.h"
+
+1539150483 c:\users\pc\onedrive\documentos\proyecto_3\include\libro.h
+	<string>
+
+1539150606 source:c:\users\pc\onedrive\documentos\proyecto_3\src\libro.cpp
+	"Libro.h"
+	<string.h>
+	<sstream>
+
+1539234413 source:c:\users\pc\onedrive\documentos\proyecto_3\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1539234886 source:c:\users\marco castro vázquez\onedrive\documentos\proyecto_3\main.cpp
+	<iostream>
+	"Lista.h"
+	"Libro.h"
+	<windows.h>
+
+1539234413 c:\users\marco castro vázquez\onedrive\documentos\proyecto_3\include\lista.h
+	<iostream>
+	"Libro.h"
+
+1539150483 c:\users\marco castro vázquez\onedrive\documentos\proyecto_3\include\libro.h
+	<string>
+
+1539150606 source:c:\users\marco castro vázquez\onedrive\documentos\proyecto_3\src\libro.cpp
+	"Libro.h"
+	<string.h>
+	<sstream>
+
+1539234413 source:c:\users\marco castro vázquez\onedrive\documentos\proyecto_3\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
+1539231286 source:c:\users\marco\onedrive\documentos\estructura de datos i\proyecto_3\main.cpp
+	<iostream>
+	"Lista.h"
+	"Libro.h"
+	<windows.h>
+
+1539230813 c:\users\marco\onedrive\documentos\estructura de datos i\proyecto_3\include\lista.h
+	<iostream>
+	"Libro.h"
+
+1542923674 c:\users\marco\onedrive\documentos\estructura de datos i\proyecto_3\include\libro.h
+	<string>
+
+1539147006 source:c:\users\marco\onedrive\documentos\estructura de datos i\proyecto_3\src\libro.cpp
+	"Libro.h"
+	<string.h>
+	<sstream>
+
+1539482452 source:c:\users\marco\onedrive\documentos\estructura de datos i\proyecto_3\src\lista.cpp
+	"Lista.h"
+	<iostream>
+
